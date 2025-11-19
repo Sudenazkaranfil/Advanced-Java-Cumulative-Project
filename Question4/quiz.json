@@ -1,0 +1,47 @@
+{
+  "questions": [
+    {
+      "prompt": "Which language runs on JVM?",
+      "points": 5,
+      "options": [
+        {
+          "text": "Java",
+          "isCorrect": true
+        },
+        {
+          "text": "Python",
+          "isCorrect": false
+        },
+        {
+          "text": "C++",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "prompt": "Which keyword defines a class in Java?",
+      "points": 5,
+      "options": [
+        {
+          "text": "Object",
+          "isCorrect": false
+        },
+        {
+          "text": "Class",
+          "isCorrect": true
+        },
+        {
+          "text": "Function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "prompt": "Explain what OOP stands for.",
+      "points": 5,
+      "correctAnswer": {
+        "text": "Objects Orianted Programming"
+      }
+    }
+  ]
+}
